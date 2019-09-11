@@ -1,0 +1,13 @@
+{
+  "name": "react-devtools-disable",
+  "version": "0.0.1",
+  "description": "Disables React devtools extension under specified condition",
+  "main": "index.js",
+  "repository": "git@github.com:mikroskeem/react-devtools-disable.git",
+  "keywords": [
+      "react",
+      "production"
+  ],
+  "author": "Mark Vainomaa <mikroskeem@mikroskeem.eu>",
+  "license": "MIT"
+}
